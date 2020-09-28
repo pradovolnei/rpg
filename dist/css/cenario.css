@@ -34,3 +34,16 @@ body, html {
 	-webkit-transform: scaleX(-1);
 	transform: scaleX(-1);
 }
+
+#dados {
+	width: 67%;
+	position: absolute; 
+	top:80%;
+	left:0%;
+}
+
+#historico {
+	position: absolute; 
+	top:0%;
+	left:70%;
+}
